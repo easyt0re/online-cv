@@ -142,29 +142,32 @@ skills:
     title: Skills & Proficiency
 
     toolset:
-      - name: Teamwork Skills
+      - name: Teamwork
         level: 100%
 
-      - name: Communication Skills
-        level: 100%
+      # - name: Communication Skills
+      #   level: 100%
 
-      - name: CAD (SolidWorks, Creo)
+      - name: CAD
         level: 90%
 
-      - name: MATLAB & Simulink
+      - name: MATLAB
         level: 90%
 
-      - name: Python, C++
+      - name: Python
+        level: 60%
+
+      - name: C++
         level: 60%
 
       - name: Linux OS
         level: 40%
 
-      - name: Microsoft Office
-        level: 80%
+      # - name: Microsoft Office
+      #   level: 80%
 
-      - name: Illustrator & Photoshop
-        level: 40%
+      # - name: Illustrator & Photoshop
+      #   level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
