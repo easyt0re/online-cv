@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
+    skills: True # set to False if you want skills in main section instead of in sidebar
 
     # Profile information
     name: Yang Wang
@@ -22,7 +23,7 @@ sidebar:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    ORCID: 0000-0002-3337-1639
+    ORCID: # 0000-0002-3337-1639
 
     languages:
       - idiom: Chinese
